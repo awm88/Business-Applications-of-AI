@@ -1,6 +1,6 @@
 # Business-Applications-of-AI
 
-Assignment 1:
+Assignment 1: File 'MMAI5040_–_W21_–Group3_–_Assignment1.ipynb'
 Q1. [20 points] The Breakfast Cereal data (cereals.csv) contains nutritional information and
 consumer rating of 77 breakfast cereals. The consumer rating is a rating of cereal “healthiness”
 for consumer information (not a rating by consumers). For each cereal, the data include 13
@@ -118,7 +118,7 @@ x. Compare the predictive accuracy of this model with model (iii). Is this model
 good enough or should it be reevaluated once flights begin on the new route?
 
 
-Assignment 2:
+Assignment 2: File: '5040Assignment2 (1).ipynb'
 Q1. [ 15 points] Identifying Course Combinations and Recommending Courses
 The Institute of Statistical Education at Statistics.com offers online courses in statistics and
 analytics and is seeking information that will help in packaging and sequencing courses.
@@ -197,6 +197,6 @@ node increase?
 ii. What happens to the RMS error of the validation data?
 iii. Comment on the appropriate number of layers and nodes for this application.
 
-Assignment 3:
+Assignment 3: File: Group Reports and Python 1 and 2 
 The team project for the course consists of using business analytics / machine learning
 techniques to develop an AI solution with new or existing data from a real-world organization.
